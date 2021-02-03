@@ -2,10 +2,9 @@
 
 ## TODO:
 
+1. **Complete** the only TODO left in the project.
 1. **Draw a diagram** to demonstrate what elements act as the Model, View Model and View.
-
 1. **Describe the responsibilities** of each component, below their names.
-
 1. **Identify the role** played by closures and observers.
 
 ## Readings and sources 👩🏻‍💻
