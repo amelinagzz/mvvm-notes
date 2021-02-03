@@ -1,5 +1,13 @@
 #  MVVM Notes
 
+## TODO:
+
+1. **Draw a diagram** to demonstrate what elements act as the Model, View Model and View.
+
+1. **Describe the responsibilities** of each component, below their names.
+
+1. **Identify the role** played by callbacks.
+
 ## Readings and sources 👩🏻‍💻
 
 - [Medium article: How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b)
