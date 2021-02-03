@@ -29,15 +29,15 @@ class DessertCollectionViewModel {
     }
     
     func createCellViewModel(item: Dessert ) -> DessertCellViewModel {
-        
-        return DessertCellViewModel(descriptionText: item.description)
+        return DessertCellViewModel(descriptionText: item.description, displayPrice: nil, price: item.price)
     }
     
-    func createPages( ) {
+    func createDessert( ) { // pretending to be a network call + encoding
+
         let items = [
-            Dessert(description: "🍰"),
-            Dessert(description: "☕️"),
-            Dessert(description: "🥐")
+            Dessert(description: "🍰", price: 180),
+            Dessert(description: "☕️", price: 20),
+            Dessert(description: "🥐", price: 20)
         ]
         
         var vms = [DessertCellViewModel]()

@@ -18,7 +18,7 @@
 		AB307D8C2462338D00E17983 /* DessertCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB307D8B2462338D00E17983 /* DessertCellViewModel.swift */; };
 		AB307D90246233AD00E17983 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB307D8E246233AD00E17983 /* ItemCell.swift */; };
 		AB307D932462349600E17983 /* DessertCollectionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB307D922462349600E17983 /* DessertCollectionViewModel.swift */; };
-		AB307D952462370B00E17983 /* Onboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB307D942462370B00E17983 /* Onboard.swift */; };
+		AB61E2BF25CB02C300C7CB99 /* Dessert.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB61E2BE25CB02C300C7CB99 /* Dessert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,8 +56,8 @@
 		AB307D8B2462338D00E17983 /* DessertCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertCellViewModel.swift; sourceTree = "<group>"; };
 		AB307D8E246233AD00E17983 /* ItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 		AB307D922462349600E17983 /* DessertCollectionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertCollectionViewModel.swift; sourceTree = "<group>"; };
-		AB307D942462370B00E17983 /* Onboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboard.swift; sourceTree = "<group>"; };
 		AB307D9A24626A7C00E17983 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AB61E2BE25CB02C300C7CB99 /* Dessert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dessert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,7 +144,7 @@
 		AB307D9624625FCE00E17983 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				AB307D942462370B00E17983 /* Onboard.swift */,
+				AB61E2BE25CB02C300C7CB99 /* Dessert.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -305,9 +305,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AB307D952462370B00E17983 /* Onboard.swift in Sources */,
 				AB307D8A2462335000E17983 /* ViewController.swift in Sources */,
 				AB307D52246232A100E17983 /* AppDelegate.swift in Sources */,
+				AB61E2BF25CB02C300C7CB99 /* Dessert.swift in Sources */,
 				AB307D8C2462338D00E17983 /* DessertCellViewModel.swift in Sources */,
 				AB307D54246232A100E17983 /* SceneDelegate.swift in Sources */,
 				AB307D90246233AD00E17983 /* ItemCell.swift in Sources */,
