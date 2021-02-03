@@ -6,7 +6,7 @@
 
 1. **Describe the responsibilities** of each component, below their names.
 
-1. **Identify the role** played by callbacks.
+1. **Identify the role** played by closures and observers.
 
 ## Readings and sources 👩🏻‍💻
 
